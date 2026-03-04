@@ -1,3 +1,4 @@
 # Streamlit-project
-"Aplicativo web Streamlit para lançamento de moedas (Probabilidade)
+
+"Aplicativo web Streamlit simula probabilidade com lançamento de moedas.
 
